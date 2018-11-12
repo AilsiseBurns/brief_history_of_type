@@ -1,4 +1,4 @@
-# List of typefaces #
+#List of typefaces
 
 The following list presents the typefaces our designers are best known for and some of the foundries who still produce them.
 

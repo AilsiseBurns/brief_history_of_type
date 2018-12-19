@@ -18,5 +18,11 @@
 
  ### Monday 26th November 
  
- [A Breif History of Type 5]( https://ailsiseburns.github.io/brief_history_of_type/brief_history_of_type4.html)
+ [A Breif History of Type 5]( https://ailsiseburns.github.io/brief_history_of_type/brief_history_of_type5.html)
  Added Google Fonts.
+ 
+ 
+ ### Monday 3rd December 
+ 
+ [A Breif History of Type 6]( https://ailsiseburns.github.io/brief_history_of_type/brief_history_of_type6.html)
+ Added styling to Table and media SVGs.

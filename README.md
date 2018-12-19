@@ -15,3 +15,8 @@
 ### Monday 19th November 2018
 
 [A Brief History of Type 4]( https://ailsiseburns.github.io/brief_history_of_type/brief_history_of_type4.html) Added css stylesheet.
+
+ ### Monday 26th November 
+ 
+ [A Breif History of Type 5]( https://ailsiseburns.github.io/brief_history_of_type/brief_history_of_type4.html)
+ Added Google Fonts.
